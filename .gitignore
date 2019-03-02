@@ -1,0 +1,25 @@
+# general
+tmp
+**/old
+**/bin
+
+# Scala + sbt
+**/*.class
+**/target
+target/
+
+# Editors
+*.swp
+*~
+.idea
+
+# Latex
+**/*.aux
+**/*.log
+**/*.nav
+**/*.out
+**/*.snm
+**/*.vrb
+**/*.synctex.gz
+**/*.synctex.gz(busy)
+**/*.toc
